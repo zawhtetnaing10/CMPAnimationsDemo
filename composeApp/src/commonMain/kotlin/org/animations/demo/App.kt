@@ -10,6 +10,8 @@ fun App() {
     MaterialTheme {
         //AnimatedVisibilityDemo()
 
-        AnimateBackgroundColorDemo()
+        //AnimateBackgroundColorDemo()
+
+        AnimateContentSizeDemo()
     }
 }
