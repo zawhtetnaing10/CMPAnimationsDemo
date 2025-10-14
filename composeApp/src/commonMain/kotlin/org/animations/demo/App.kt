@@ -20,6 +20,8 @@ fun App() {
 
         //AnimateShadowsDemo()
 
-        AnimateTextDemo()
+        //AnimateTextDemo()
+
+        AnimateTextColorDemo()
     }
 }
