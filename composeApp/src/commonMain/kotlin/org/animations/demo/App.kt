@@ -12,6 +12,14 @@ fun App() {
 
         //AnimateBackgroundColorDemo()
 
-        AnimateContentSizeDemo()
+        //AnimateContentSizeDemo()
+
+        //AnimateOffsetDemo()
+
+        //AnimatePaddingDemo()
+
+        //AnimateShadowsDemo()
+
+        AnimateTextDemo()
     }
 }
