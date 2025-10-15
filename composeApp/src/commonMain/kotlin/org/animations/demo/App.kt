@@ -22,6 +22,10 @@ fun App() {
 
         //AnimateTextDemo()
 
-        AnimateTextColorDemo()
+        //AnimateTextColorDemo()
+
+        //RepeatAnAnimationDemo()
+
+        PlayAnAnimationOnStartOfAComposableDemo()
     }
 }
