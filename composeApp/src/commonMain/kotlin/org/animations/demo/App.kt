@@ -26,6 +26,8 @@ fun App() {
 
         //RepeatAnAnimationDemo()
 
-        PlayAnAnimationOnStartOfAComposableDemo()
+        //PlayAnAnimationOnStartOfAComposableDemo()
+
+        MultipleAnimations()
     }
 }
